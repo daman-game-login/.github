@@ -6,6 +6,8 @@
         <h3><a href="https://damangames.one/download/" target="_blank">Daman App Download</a></h3>
     </section>
 <p>Welcome to the Daman Games! Daman Games is a dynamic online gaming platform offering over 100 engaging games, including Rummy, Poker, Color Prediction, and many others. With Daman Game, you can play, win, and even earn real money.</p>
+
+<p>The Daman Game is the best colour prediction app where you can play the colour prediction game in 1 minute, 3 minutes, 5 minutes and 10 minutes. The Daman Game app also gives a win streak and rebate bonus for their colour prediction game.</p>
         
 <section>
         <h2>Daman Games Invitation Code – <strong>382757617365</strong></h2>
