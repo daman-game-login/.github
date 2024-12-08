@@ -1,4 +1,5 @@
 <h1>Daman Game Login</h1>
+<p>Links Updated 41 Seconds Ago</p>
 <section>
         <h2>Quick Access</h2>
         <h3><a href="https://damangames.one/login/" target="_blank">Daman Game Login</a></h3>
