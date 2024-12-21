@@ -6,14 +6,6 @@
         <h3><a href="https://damangames.one/download/" target="_blank">Daman App Download</a></h3>
     </section>
 <p>Updated 27 Seconds Ago</p> 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daman Games Guide</title>
-</head>
-<body>
     <section>
         <h1>What is Daman Games?</h1>
         <p><a href="http://damangames.one">Daman Games</a> is an online platform that specializes in games like color prediction, Wingo, K3, 5D, and Aviator. Players can enjoy testing their skills and luck while earning real rewards. The platform frequently offers bonuses and promotions to make gaming more exciting.</p>
