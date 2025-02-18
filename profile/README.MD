@@ -22,13 +22,13 @@ Daman Games is an online gaming platform featuring games like color prediction, 
 4. Open the downloaded file and follow the instructions to install.
 
 ## How to Register on Daman Games
-1. Visit the [official registration page](https://damangames.one/register/).
+1. Visit the [official registration page](https://damangames.support/register/).
 2. Enter your mobile number (must not be previously registered).
 3. Create and confirm a strong password.
 4. Enter an invitation code if you have one (**Example: 382757617365**).
 
 ## How to Log In to Daman Games
-1. Go to the [official login page](https://damangames.one/login/).
+1. Go to the [official login page](https://damangames.support/login/).
 2. Enter your registered mobile number and password.
 
 ## Frequently Asked Questions
