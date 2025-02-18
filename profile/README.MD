@@ -68,9 +68,9 @@ Daman Games is available on **Android**. iOS users can access the web version.
 - Minimum deposit required
 
 ## Contact & Support
-- [Login](https://damangames.one/login/)
-- [Register](https://damangames.one/register/)
-- [Download App](https://damangames.one/download/)
+- [Login](https://damangames.support/login/)
+- [Register](https://damangames.support/register/)
+- [Download App](https://damangames.support/download/)
 - Contact Us via the official website  
 
 © 2024 Daman Games. All Rights Reserved.  
