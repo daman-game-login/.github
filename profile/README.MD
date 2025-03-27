@@ -1,9 +1,9 @@
 # Daman Game Login
 
 ## Quick Access
-- [Daman Game Login](https://damanclub.in/#/register?invitationCode=382757617365)
-- [Daman Game Register](https://damanclub.in/#/register?invitationCode=382757617365)
-- [Daman Game Download](https://damanclub.in/#/register?invitationCode=382757617365)
+### [Daman Game Login](https://damanclub.in/#/register?invitationCode=382757617365)
+### [Daman Game Register](https://damanclub.in/#/register?invitationCode=382757617365)
+### [Daman Game Download](https://damanclub.in/#/register?invitationCode=382757617365)
 
 **Last updated:** A few seconds ago  
 
@@ -68,9 +68,9 @@ Daman Games is available on **Android**. iOS users can access the web version.
 - Minimum deposit required
 
 ## Contact & Support
-- [Login](https://damangames.support/login/)
-- [Register](https://damangames.support/register/)
-- [Download App](https://damangames.support/download/)
+- [Login](https://gamelogin.in/daman-game/)
+- [Register](https://gamelogin.in/daman-game/)
+- [Download App](https://gamelogin.in/daman-game/)
 - Contact Us via the official website  
 
 © 2024 Daman Games. All Rights Reserved.  
