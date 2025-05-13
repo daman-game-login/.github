@@ -11,19 +11,6 @@
 
 ---
 
-## 🔗 Quick Links
-
-- **[Register on Daman Games](https://damangames.one)**  
-  New here? Sign up and start playing instantly.
-
-- **[Login to Daman Games](https://damangames.one)**  
-  Already have an account? Log in to continue.
-
-- **Invite Code:** `382757617365`  
-- **Official Website:** [Damangames.one](https://damangames.one)
-
----
-
 ## 🎲 Game Categories
 
 - **Color Prediction:** Guess the outcome and win.
